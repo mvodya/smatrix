@@ -1,2 +1,6 @@
 # smatrix
-Beautiful console random signs rain for windows
+Красивый генератор символьного дождика для консоли windows.
+
+Крайне просто устроен, ничего дополнительного не требует.
+
+![GitHub Logo](/preview.gif)
